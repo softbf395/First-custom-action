@@ -1,5 +1,5 @@
 name: My First Action (Testing)
-
+description: This is currently a test, please do not use this action! (yes, im testing to see if i can create a working actions thingy)
 on:
   push:
     branches: [main]
